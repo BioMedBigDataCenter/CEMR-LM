@@ -1,4 +1,4 @@
-# CEMR-LM: Chinese electronic medical records' sentence Classification using pre-trained language Model
+# CEMR-LM: A domain adaptive pre-training language model for sentence classification of Chinese electronic medical record
 
 CEMR-LM is a classification model for Chinese EMR data. It leverages a clinical domain adaptive pre-trained language Model architecture along with convolutional layers and attention mechanisms to achieve accurate classification results. This repository provides the implementation of the model along with training, testing, and evaluation scripts.
 
