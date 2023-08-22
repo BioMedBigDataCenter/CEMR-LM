@@ -9,7 +9,6 @@ CEMR-LM is a classification model for Chinese EMR data. It leverages a clinical 
 - [Usage](#usage)
   - [Configuration](#configuration)
   - [Training](#training)
-  - [Testing](#testing)
 - [Results](#results)
 
 ## Introduction
